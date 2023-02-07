@@ -40,4 +40,17 @@ h3:hover{
 
 footer{
     color: white;
+    text-align: center;
+    margin-top:15pt;
+}
+
+#horas{
+    position: absolute;
+    margin-left:40%;
+    font-size: 3rem;
+    color: white;
+    padding: 3px;
+    background-color: rgb(42, 41, 39);
+    border:2px solid black;
+    border-radius: 15px;
 }
