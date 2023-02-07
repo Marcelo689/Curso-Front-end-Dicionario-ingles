@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(19, 19, 21);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.conteudo{
+    padding: 20px;
+    margin:50px;
+    background-color:rgb(9, 9, 9);
+    width: 800px;
+    border-radius: 20px;
+}
+
+.header-class{
+    border-radius:15px;
+    background-color: rgb(216, 130, 23);
+    width: 930px;
+    height: 670px;
+    margin: auto;
+    box-shadow:  4px 4px 30px gray;
+}
+
+.header-class > h3{
+    text-align: center;
+    padding-top:50px;
+    color:rgb(59, 56, 56);
+    font-size: 2.5rem;
+}
+img{
+    border-radius: 20px;
+}
+
+h3:hover{
+    color: white;
+}
+
+.conteudo:hover{
+    background-color:aliceblue ;
+}
+
+footer{
+    color: white;
+}

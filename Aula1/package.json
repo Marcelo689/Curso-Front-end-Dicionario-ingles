@@ -1,0 +1,22 @@
+{
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "tsc index.ts "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "dictionary-en": "^3.2.0",
+    "typescript": "^4.9.5",
+    "wordlist-english": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
